@@ -52,4 +52,7 @@ hr {
   margin-bottom: 20px;
   border-top: 2px solid lightgrey;
 }
+span {
+  border: 1px solid black;
+}
 </style>
