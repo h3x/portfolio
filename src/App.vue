@@ -56,6 +56,16 @@ section {
   margin-top: 30px;
   justify-content: left;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+p {
+  margin-bottom: 5px;
+}
 h1 {
   font-size: 3em;
 }

@@ -31,9 +31,6 @@
             Installation and maintenance of industrial roller door and gate systems and associated control equipment.
             </div>
         </section>
-
-
-
     </div>
   </div>
 </template>
