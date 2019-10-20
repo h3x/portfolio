@@ -1,20 +1,30 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <Menu/>
     <router-view />
   </div>
 </template>
+<script lang="ts">
+import Vue from 'vue'
+import Menu from "@/components/Menu.vue";
+export default Vue.extend({
+  components: {
+    Menu
+  }
+})
+</script>
 
 <style>
+
+@import '../node_modules/bulma/css/bulma.min.css';
+
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  
 }
 
 #nav {
@@ -28,5 +38,32 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+
+hr {
+  width: 50%;
+  margin: auto;
+  border-top: 2px solid darkgrey;
+  margin-top: 20px;
+}
+
+br {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+section {
+  margin-top: 30px;
+  justify-content: left;
+}
+h1 {
+  font-size: 3em;
+}
+
+.content{
+  margin:auto;
+  margin-left: 20%;
+  margin-right: 20%;
+  
 }
 </style>
