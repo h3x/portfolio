@@ -1,6 +1,6 @@
 <template>
   <div class="projects">
-    <h1>CV</h1>
+    <h1>Featured Projects</h1>
     <hr/>
     <div class="content">
         <section class="clearfix">

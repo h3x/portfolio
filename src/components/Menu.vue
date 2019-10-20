@@ -26,7 +26,7 @@
 
     <div class="navbar-end">
       
-      <router-link class="navbar-item" :to="{ name: 'contact'}"><img src="../assets/phone-contact.png"></router-link>
+      <router-link class="navbar-item" :to="{ name: 'contact'}"><img src="../assets/contact.png"></router-link>
     </div>
   </div>
   

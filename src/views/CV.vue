@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <div class="cv">
     <h1>CV</h1>
     <hr/>
     <div class="content">
