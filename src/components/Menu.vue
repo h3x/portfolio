@@ -17,7 +17,7 @@
         <router-link class="navbar-item" :to="{ name: 'cv'}">CV</router-link>
         <router-link class="navbar-item" :to="{ name: 'education'}">Education</router-link>
         <router-link class="navbar-item" :to="{ name: 'volunteer'}">Volunteering</router-link>
-        <router-link class="navbar-item" :to="{ name: 'about'}">About</router-link>
+        <!-- <router-link class="navbar-item" :to="{ name: 'about'}">About</router-link> -->
         <div class="navbar-end">
           <router-link @click="closeMenu"
             class="navbar-item"
