@@ -14,7 +14,7 @@
       <div id="navbarBasicExample" class="navbar-menu" v-bind:class="{'is-active': isOpen}" @click="closeMenu"> 
         <div class="navbar-start"></div>
         <router-link class="navbar-item" :to="{ name: 'projects'}">Featured Projects</router-link>
-        <router-link class="navbar-item" :to="{ name: 'cv'}">CV</router-link>
+        <router-link class="navbar-item" :to="{ name: 'employment'}">Employment History</router-link>
         <router-link class="navbar-item" :to="{ name: 'education'}">Education</router-link>
         <router-link class="navbar-item" :to="{ name: 'volunteer'}">Volunteering</router-link>
         <!-- <router-link class="navbar-item" :to="{ name: 'about'}">About</router-link> -->
