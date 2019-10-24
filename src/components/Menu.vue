@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
-        <router-link class="navbar-item" :to="{ name: 'home'}"><img src="../assets/home.png"></router-link>
+        <router-link class="navbar-item" @click="closeMenu" :to="{ name: 'home'}"><img src="../assets/home.png"></router-link>
 
         <a role="button" @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
           <span aria-hidden="true"></span>
