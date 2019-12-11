@@ -17,7 +17,7 @@
             </div>
         </section>
         <hr />
-        <section class="clearfix">
+        <!-- <section class="clearfix">
             <h2>Genetic Algorithm in Python3</h2>
             <div class="has-text-left">
                 <a href="https://seagreenharmoniousvirtualmachines.adamaustin.repl.run/" target="_blank" class="aligned">
@@ -31,7 +31,7 @@
                 <strong>Technologies used:</strong> Python3
                 </div>
             </div>
-        </section>
+        </section> -->
         <hr />
         <section class="clearfix">
             <h2>Cookie-clicker auto clicker</h2>
