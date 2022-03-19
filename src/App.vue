@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Menu/>
+    <Menu />
     <router-view />
   </div>
 </template>
@@ -15,8 +15,7 @@ export default Vue.extend({
 </script>
 
 <style>
-
-@import '../node_modules/bulma/css/bulma.min.css';
+@import "../node_modules/bulma/css/bulma.min.css";
 
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
@@ -24,7 +23,6 @@ export default Vue.extend({
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  
 }
 
 #nav {
@@ -70,10 +68,13 @@ h1 {
   font-size: 3em;
 }
 
-.content{
-  margin:auto;
+.language-logo {
+  max-width: 150px;
+}
+
+.content {
+  margin: auto;
   margin-left: 20%;
   margin-right: 20%;
-  
 }
 </style>

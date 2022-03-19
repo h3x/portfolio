@@ -17,21 +17,21 @@
             </div>
         </section>
         <hr />
-        <!-- <section class="clearfix">
+        <section class="clearfix">
             <h2>Genetic Algorithm in Python3</h2>
             <div class="has-text-left">
-                <a href="https://seagreenharmoniousvirtualmachines.adamaustin.repl.run/" target="_blank" class="aligned">
-                <img src="../assets/ga-preview.png">
-                </a>
+                <!-- <a href="https://seagreenharmoniousvirtualmachines.adamaustin.repl.run/" target="_blank" class="aligned"> -->
+                <img src="../assets/ga-preview.png" class="aligned">
+                <!-- </a> -->
                 <div><strong>Code:</strong> <a href="https://github.com/h3x/GA" target="_blank"> https://github.com/h3x/GA</a><br />
-                <strong>Live code:</strong><a href="https://seagreenharmoniousvirtualmachines.adamaustin.repl.run" target="_blank"> https://seagreenharmoniousvirtualmachines.adamaustin.repl.run </a><br/>
+                <!-- <strong>Live code:</strong><a href="https://seagreenharmoniousvirtualmachines.adamaustin.repl.run" target="_blank"> https://seagreenharmoniousvirtualmachines.adamaustin.repl.run </a><br/> -->
                 <strong>Description:</strong> <p> This was a genetic algorithm i wrote to solve a variation of Einstein's Riddle. The algorithm is fed some clues as to judge the fitness each solution, and then tested against
                     a fitness function. The live site above is hosted on repl.it and obviosuly runs a lot slower than running it on your own machine or server. The hosted version is for demonstration purposes only.
                 </p>
                 <strong>Technologies used:</strong> Python3
                 </div>
             </div>
-        </section> -->
+        </section> 
         <hr />
         <section class="clearfix">
             <h2>Cookie-clicker auto clicker</h2>

@@ -4,11 +4,17 @@
     <hr />
     <div class="content">
       <section class="has-text-left">
-        <strong>University of New England</strong><br />
-        Bachelor of Computer Science (expected graduation October 2020)<br /><br />
-        <strong>GPA:</strong> 6.75 / 7<br />
-        <strong>WAM:</strong> 88.25<br /><br />
-        <strong>Relevant Coursework:</strong>
+        <strong>University of New England</strong>
+        <p>Bachelor of Computer Science</p>
+        <p>
+          <strong>GPA:</strong> 6.71 / 7
+        </p>
+        <p>
+          <strong>Awarded 2021 Vice Chancellor's Scholar</strong>
+        </p>
+        <p>
+          <strong>Relevant Coursework:</strong>
+        </p>
         <table>
           <tr>
             <td>Operating Systems</td>
@@ -34,14 +40,15 @@
       </section>
       <hr />
       <section class="has-text-left">
-        <strong>TAFE NSW</strong><br />
-        Completed coursework toward Electrical Engineering - Electronics
-        (January 2009 - December 2011)<br />
+        <strong>TAFE NSW</strong>
+        <br />Completed coursework toward Electrical Engineering - Electronics
+        (January 2009 - December 2011)
+        <br />
       </section>
       <hr />
       <section class="has-text-left">
-        <strong>TAFE NSW</strong><br />
-        Electrotechnology Electrician (February 2002 - December 2006)
+        <strong>TAFE NSW</strong>
+        <br />Electrotechnology Electrician (February 2002 - December 2006)
       </section>
       <hr />
     </div>
