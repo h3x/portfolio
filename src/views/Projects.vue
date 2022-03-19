@@ -10,8 +10,17 @@
                 <img src="../assets/hive-preview.png">
                 </a>
                 <div><strong>Code:</strong> <a href="https://github.com/h3x/vue-hive" target="_blank">https://github.com/h3x/vue-hive</a><br />
-                <strong>Live site:</strong><a href="https://thehive.pw" target="_blank"> https://thehive.pw </a><br/>
-                <strong>Description:</strong> <p>The hive is my interpretation of the board game ‘Hive’. It features private and public chat, an invite system, a database allowing users to continue unfinished games, and some basic stats based off the users’ experience </p>
+                <!-- <strong>Live site:</strong><a href="https://thehive.pw" target="_blank"> https://thehive.pw </a><br/> -->
+                <strong>Demo</strong><a href="https://www.youtube.com/watch?v=fRIgTARprM4" target="_blank">https://www.youtube.com/watch?v=fRIgTARprM4</a><br />
+                <strong>Description:</strong> 
+                <p>
+                  The hive is my interpretation of the board game ‘Hive’. It features private and public chat, an invite system, 
+                  a database allowing users to continue unfinished games, and some basic stats based off the users’ experience 
+                </p>
+                <p>
+                  Please note that due to the age of the project and outdated packages used, the live site is currently unavailable until such time as I can get it updated and running. Feel 
+                  free to skip arround the youtube video posted to view the built features
+                </p>
                 <strong>Technologies used:</strong> Node, MongoDB, javascript es6, typescript, Vue, express, HTML, CSS, SCSS, JWT, BCrypt
                 </div>
             </div>
