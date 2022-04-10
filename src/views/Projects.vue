@@ -4,6 +4,50 @@
     <hr/>
     <div class="content">
         <section class="clearfix">
+            <h2>Thirty301</h2>
+            <div class="has-text-left">
+                <a href="https://thirty301.netlify.app/" target="_blank" class="aligned">
+                <img src="../assets/thirty301.png">
+                </a>
+                <div><strong>Code:</strong> <a href="https://github.com/h3x/thirty301" target="_blank">https://github.com/h3x/vue-hive</a><br />
+                <strong>Live site:</strong><a href="https://thirty301.netlify.app/" target="_blank"> https://thirty301.netlify.app/ </a><br/>
+                <strong>Description:</strong> 
+                <p>
+                    Thirty301 is a fundamental investment guide, allowing users to select public companies to view and help make trading descisions 
+                    on fundamental data.
+                </p>
+                <p>
+                    <strong>Please note:</strong> This is a work in progress. As such, the API used is a free teir with very restrictive rate limits.
+                    If the data does not load, please wait 30 seconds and try again.
+                </p>
+                <p>
+                    Current Features
+                    <ul>
+                        <li>Symbol and company name search</li>
+                        <li>Fundamental data display</li>
+                        <li>Closing and daily high for previous 30 days</li>
+                    </ul>
+                </p>
+                <p>
+                    Future Features
+                    <ul>
+                        <li>Firebase connection</li>
+                        <li>User auth</li>
+                        <li>Watchlist</li>
+                        <li>Buy / sell list</li>
+                        <ul>
+                            <li>Dates per trade</li>
+                            <li>Save prices at each trade</li>
+                            <li>Calc for profit per trade</li>
+                            </ul>
+                    </ul>
+                </p>
+                <strong>Technologies used:</strong> Javascript es6, React, HTML, CSS, SCSS, External APIs
+                </div>
+            </div>
+        </section>
+        <hr />
+        <section class="clearfix">
             <h2>The Hive</h2>
             <div class="has-text-left">
                 <a href="https://thehive.pw" target="_blank" class="aligned">
