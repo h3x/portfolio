@@ -4,11 +4,28 @@
     <hr />
     <div class="content">
       <section class="has-text-left">
+        <strong>AlayaCare Australia,</strong>
+        <em>Sydney, Australia</em>
+        <div>
+          Software Developer
+          <em>May 2022 - Present</em>
+          <br />
+          <ul>
+            <li>Front end developer with a focus on Vue</li>
+            <li>
+              Working closely with the designers and stakeholders to provide vue via new features and maintaining
+              existing features using Vue, and Python
+            </li>
+          </ul>
+        </div>
+      </section>
+      <hr />
+      <section class="has-text-left">
         <strong>Inspired Software,</strong>
         <em>Sydney, Australia</em>
         <div>
           Software Developer
-          <em>December 2019 - Present</em>
+          <em>December 2019 - May 2022</em>
           <br />
           <ul>
             <li>Responsible for multiple clients in a wide variety of industries</li>
